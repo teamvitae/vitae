@@ -1,0 +1,5 @@
+Cualquier cambio de la BD escribir aqui el historial
+
+################################### VERSION DATA BASE ###################################
+
+= Version V1 Dump20150713.sql							---- Primera version de la BD			---- Roberto Delgado		---- 13/07/2015
